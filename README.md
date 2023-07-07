@@ -10,4 +10,4 @@ Esse projeto conta com 3 partes principais:
  - **Jupyter Notebooks**: Em que o trabalho computacional é realizado.
  - **PowerPoint e Vídeo de Apresentação**: No qual o grupo fala sobre todas as etapas do projeto, fornecendo conclusões finais.
 
-https://youtu.be/LIQxTXUebQY
+[![Watch the video](https://img.youtube.com/vi/LIQxTXUebQY/maxresdefault.jpg)](https://youtu.be/LIQxTXUebQY)
