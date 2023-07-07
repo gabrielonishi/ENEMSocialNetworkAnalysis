@@ -2,6 +2,12 @@
 
 Análise de como fatores de criação pode influenciar no padrão de resposta de um aluno no ENEM utilizando teoria de redes sociais. Feito como projeto final da disciplina Redes Sociais, do 6° semestre de Engenharia de Computação do Insper.
 
+## Equipe
+ - [Gabriel Onishi](https://github.com/gabrielonishi)
+ - [Pedro Mahfuz](https://github.com/pmahfuz)
+ - [Sarah Pimenta](https://github.com/sarahp31)
+## Descrição
+
 Para rodar o projeto, é necessário baixar os dados de INEP de 2021 (disponível em https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
 
 Esse projeto conta com 3 partes principais:
